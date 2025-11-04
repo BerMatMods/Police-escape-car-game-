@@ -1,0 +1,12 @@
+ body {
+  background-color: #393e46;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 1000;
+}
+
+  border: 1px solid #424242;
+  background-color: #821532
+}
